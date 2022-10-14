@@ -19,6 +19,6 @@ do
 echo "bowtie -p 5 -v 1 -q $i -x ~/Database/Rfam/rfamIndx -S ~/microRNA/fq_filtered18_30_microRNA/mapped2rfam/$(basename $i .fastq).sam" >> deal.sh
 done
 ```
-得到如下文件
+得到如下文件,
 
 
