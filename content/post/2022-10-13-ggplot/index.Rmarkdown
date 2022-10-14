@@ -42,3 +42,6 @@ plot_0 <- ggplot(df, aes(x=reorder(geneName,-size),y=size)) +
 plot_0
 ```
 
+
+
+
